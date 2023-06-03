@@ -1,0 +1,12 @@
+{
+  "name": "REVIEW",
+  "version": "1.0.0",
+  "dependencies": {
+    "formidable": "^2.1.1",
+    "nodemon": "^2.0.22",
+    "qs": "^6.11.2"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
